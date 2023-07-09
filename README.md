@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=almahmud007&label=Profile%20views&color=0e75b6&style=flat" alt="almahmud007" /> </p>
 
-- 🌱 I’m currently learning **Python, Numpy, Pandas, Machine learning**
+- 🌱 I’m currently learning **Python, Numpy, Pandas, Matplotlib, Seaborn, Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Almahmud007](https://github.com/Almahmud007)
 
